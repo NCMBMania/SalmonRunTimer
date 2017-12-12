@@ -1,0 +1,22 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "8",
+    "cordova_version": "6.5",
+    "plugin_settings": [],
+    "external_plugins": [
+        "cordova-plugin-whitelist@1.3.2",
+        "cordova-plugin-splashscreen@4.0.3",
+        "cordova-custom-config@2.0.3",
+        "ncmb-push-monaca-plugin@2.0.8"
+    ],
+    "title-ja": "",
+    "title-en": "",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [],
+    "name": "generated-1513056569-5a2f1769e7888515348b4568"
+}
